@@ -18,7 +18,7 @@ public class TipoDeDatosArea66228 {
         // TODO code application logic here
         double base = 10;
         double altura = 5;
-        double area = ((base * altura) / 2);
+        double area = (base * altura);
         System.out.print(area + "\n");
     }
     
